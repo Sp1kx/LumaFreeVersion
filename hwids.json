@@ -1,0 +1,14 @@
+{
+  "3C5451A6-593C-EC5D-B7C1-F02F741A9B19": {
+    "username": "@sp1kz",
+    "role": "admin",
+    "expiry": null,
+    "features": ["full_access"]
+  },
+  "HWID-DE-USUARIO-2": {
+    "username": "usuario2",
+    "role": "user",
+    "expiry": "2024-12-31",
+    "features": ["web_scanner", "apk_scanner"]
+  }
+}
