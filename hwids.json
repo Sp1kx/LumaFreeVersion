@@ -1,5 +1,5 @@
 {
-  "3C5451A6-593C-EC5D-B7C1-F02F741A9B19": {
+  "A5B448D6-2443-2C77-ADAC-837D30D273EF": {
     "username": "@sp1kz",
     "role": "admin",
     "expiry": null,
@@ -11,4 +11,5 @@
     "expiry": "2024-12-31",
     "features": ["web_scanner", "apk_scanner"]
   }
+
 }
