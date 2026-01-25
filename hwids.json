@@ -10,8 +10,12 @@
     "role": "user",
     "expiry": "2024-12-31",
     "features": ["web_scanner", "apk_scanner"]
-  }
-
+  },
+  "F7532D79-2DD1-B349-9BEB-7B264BEF2BF9": {
+    "username": "@GODBULLET",
+    "role": "admin",
+    "expiry": "null",
+    "features": ["full_acces"]
 }
 
 
