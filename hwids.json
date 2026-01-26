@@ -7,7 +7,7 @@
   },
   "HWID-DE-USUARIO-2": {
     "username": "usuario2",
-    "role": "user",
+    "role": "user", 
     "expiry": "2024-12-31",
     "features": ["web_scanner", "apk_scanner"]
   },
