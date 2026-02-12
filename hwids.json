@@ -5,7 +5,7 @@
     "expiry": null,
     "features": ["full_access"]
   },
-  "HWID-DE-USUARIO-2": {
+  "786B2547A6BC9557AE50B4BC7633397FB6CD065442439BA55FCF35BC636A75FB": {
     "username": "usuario2",
     "role": "user", 
     "expiry": "2024-12-31",
@@ -18,3 +18,4 @@
     "features": ["full_access"]
   }
 }
+
