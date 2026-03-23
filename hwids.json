@@ -7,8 +7,8 @@
   },
   "0455f1b6-74b2-ba98-a3ab-4724c7f0460f": {
     "username": "usuario2",
-    "role": "user", 
-    "expiry": "2024-12-31",
+    "role": "user",
+    "expiry": "2026-12-31",
     "features": ["web_scanner", "apk_scanner"]
   },
   "F7532D79-2DD1-B349-9BEB-7B264BEF2BF9": {
@@ -20,9 +20,7 @@
   "3BEB9131-BB2F-0D40-BBB2-40167EB70CE1": {
     "username": "@vvsrn",
     "role": "user",
-    "expiry": "2026-03-24",
+    "expiry": "2026-12-31",
     "features": ["web_scanner", "apk_scanner"]
   }
-
-
-
+}
