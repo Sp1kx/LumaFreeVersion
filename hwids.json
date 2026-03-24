@@ -20,7 +20,7 @@
   "3BEB9131-BB2F-0D40-BBB2-40167EB70CE1": {
     "username": "@vvsrn",
     "role": "user",
-    "expiry": "2026-04-01",
+    "expiry": "2026-03-28",
     "features": ["web_scanner", "apk_scanner"]
   }
 }
