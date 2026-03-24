@@ -1,8 +1,8 @@
 {
   "3C5451A6-593C-EC5D-B7C1-F02F741A9B19": {
     "username": "@sp1kz",
-    "role": "user",
-    "expiry": "2026-03-01",
+    "role": "admin",
+    "expiry": "null",
     "features": ["full_access"]
   },
   "0455f1b6-74b2-ba98-a3ab-4724c7f0460f": {
