@@ -17,10 +17,10 @@
     "expiry": null,
     "features": ["full_access"]
   },
-  "3BEB9131-BB2F-0D40-BBB2-40167EB70CE1": {
-    "username": "@vvsrn",
+  "D4A0E8DE-FC79-57B8-42DC-BCFCE7DA4D2F": {
+    "username": "@verzoxx.me",
     "role": "user",
-    "expiry": "2026-03-28",
+    "expiry": "2026-04-26",
     "features": ["web_scanner", "apk_scanner"]
   }
 }
