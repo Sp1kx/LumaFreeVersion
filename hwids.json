@@ -5,10 +5,10 @@
     "expiry": "null",
     "features": ["full_access"]
   },
-  "0455f1b6-74b2-ba98-a3ab-4724c7f0460f": {
-    "username": "usuario2",
+  "03DEE300-77DA-11F0-BA12-C9F5E4085D00": {
+    "username": "@SkilKry",
     "role": "user",
-    "expiry": "2026-12-31",
+    "expiry": "2026-05-15",
     "features": ["web_scanner", "apk_scanner"]
   },
   "F7532D79-2DD1-B349-9BEB-7B264BEF2BF9": {
